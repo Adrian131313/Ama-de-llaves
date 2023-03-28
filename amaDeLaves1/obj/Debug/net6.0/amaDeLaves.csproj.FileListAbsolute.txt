@@ -1,0 +1,15 @@
+D:\adrian\amaDeLaves\bin\Debug\net6.0\amaDeLaves.exe
+D:\adrian\amaDeLaves\bin\Debug\net6.0\amaDeLaves.deps.json
+D:\adrian\amaDeLaves\bin\Debug\net6.0\amaDeLaves.runtimeconfig.json
+D:\adrian\amaDeLaves\bin\Debug\net6.0\amaDeLaves.dll
+D:\adrian\amaDeLaves\bin\Debug\net6.0\amaDeLaves.pdb
+D:\adrian\amaDeLaves\obj\Debug\net6.0\amaDeLaves.csproj.AssemblyReference.cache
+D:\adrian\amaDeLaves\obj\Debug\net6.0\amaDeLaves.GeneratedMSBuildEditorConfig.editorconfig
+D:\adrian\amaDeLaves\obj\Debug\net6.0\amaDeLaves.AssemblyInfoInputs.cache
+D:\adrian\amaDeLaves\obj\Debug\net6.0\amaDeLaves.AssemblyInfo.cs
+D:\adrian\amaDeLaves\obj\Debug\net6.0\amaDeLaves.csproj.CoreCompileInputs.cache
+D:\adrian\amaDeLaves\obj\Debug\net6.0\amaDeLaves.dll
+D:\adrian\amaDeLaves\obj\Debug\net6.0\refint\amaDeLaves.dll
+D:\adrian\amaDeLaves\obj\Debug\net6.0\amaDeLaves.pdb
+D:\adrian\amaDeLaves\obj\Debug\net6.0\amaDeLaves.genruntimeconfig.cache
+D:\adrian\amaDeLaves\obj\Debug\net6.0\ref\amaDeLaves.dll
